@@ -25,11 +25,3 @@ Designed with a modern interface and intuitive layout, this project is perfect f
 - **CSS3** for design and layout  
 - **JavaScript** for functionality and interactivity  
 
----
-
-## 🛠 How to Run
-
-```bash
-git clone https://github.com/Srish-pathak/Calculator.git
-cd Calculator
-open index.html
