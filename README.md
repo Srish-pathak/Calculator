@@ -1,2 +1,38 @@
-# Calculator
-A simple yet elegant web-based calculator built using HTML, CSS, and JavaScript. This responsive calculator supports basic arithmetic operations and features a clean, modern UI. Ideal for learning DOM manipulation, event handling, and interface styling.
+# 🧮 Simple Calculator
+
+A clean and functional web-based calculator built using **HTML**, **CSS**, and **JavaScript**.  
+Designed with a modern interface and intuitive layout, this project is perfect for practicing front-end skills.
+
+---
+
+## 📌 Features
+
+- ➕ Basic arithmetic operations: Add, Subtract, Multiply, Divide
+- 🧠 Handles parentheses and decimal values
+- 🗑️ Clear and backspace functionality
+- 🎨 Sleek UI with hover effects and responsive design
+- 🔰 Beginner-friendly code structure
+
+---
+
+## 🌐 Live Demo
+
+[🔗 Click here to use the Calculator](https://srish-pathak.github.io/Calculator/)  
+_(Deployed using GitHub Pages)_
+
+---
+
+## 🚀 Technologies Used
+
+- **HTML5** for structure  
+- **CSS3** for design and layout  
+- **JavaScript** for functionality and interactivity  
+
+---
+
+## 🛠 How to Run
+
+```bash
+git clone https://github.com/Srish-pathak/Calculator.git
+cd Calculator
+open index.html
