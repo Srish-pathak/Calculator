@@ -4,6 +4,9 @@ A clean and functional web-based calculator built using **HTML**, **CSS**, and *
 Designed with a modern interface and intuitive layout, this project is perfect for practicing front-end skills.
 
 ---
+## 📸 Screenshot
+![Screenshot 2025-06-08 033958](https://github.com/user-attachments/assets/cd69dbee-e639-45c5-ab17-0229cc955961)
+
 
 ## 📌 Features
 
