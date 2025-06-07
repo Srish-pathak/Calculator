@@ -18,12 +18,6 @@ Designed with a modern interface and intuitive layout, this project is perfect f
 
 ---
 
-## 🌐 Live Demo
-
-[🔗 Click here to use the Calculator](https://srish-pathak.github.io/Calculator/)  
-_(Deployed using GitHub Pages)_
-
----
 
 ## 🚀 Technologies Used
 
