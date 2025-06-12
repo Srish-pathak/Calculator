@@ -18,7 +18,6 @@ Designed with a modern interface and intuitive layout, this project is perfect f
 
 ---
 
-
 ## 🚀 Technologies Used
 
 - **HTML5** for structure  
