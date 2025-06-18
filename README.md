@@ -17,7 +17,12 @@ Designed with a modern interface and intuitive layout, this project is perfect f
 - 🔰 Beginner-friendly code structure
 
 ---
+🔗 Demo
 
+🎬 **Try it Live**: [Click here to open the calculator](https://srish-pathak.github.io/Calculator/)  
+🌐 Hosted on **GitHub Pages** for easy access and testing.
+
+---
 ## 🚀 Technologies Used
 
 - **HTML5** for structure  
